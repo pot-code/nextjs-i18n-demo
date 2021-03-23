@@ -1,0 +1,14 @@
+{
+  "welcome": "欢迎来到 <0>Next.js!</0>",
+  "get-started": "先从编辑 <0>pages/index.js</0> 开始",
+  "grid": {
+    "document": "文档",
+    "document-desc": "深入了解 Next.js 的功能和 API",
+    "learn": "学习资源",
+    "learn-desc": "使用 quizzes 交互式学习 Next.js",
+    "example": "例子",
+    "example-desc": "探索 Next.js 项目模板",
+    "deploy": "部署",
+    "deploy-desc": "使用 Vercel 极速部署您的 Next.js 网站"
+  }
+}
